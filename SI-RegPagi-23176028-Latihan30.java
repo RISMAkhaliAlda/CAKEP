@@ -7,6 +7,7 @@
  *
  * @author COR i5 GEN 4
  */
+import java.util.Scanner;
 public class Latihan30 {
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
